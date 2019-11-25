@@ -1,7 +1,7 @@
 {
   "name": "@code-quality/eslint-config-base",
   "description": "The base rule for eslint you have been looking for.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/developer239/code-quality-eslint-config-base.git",
   "main": "index.js",
   "publishConfig": {
