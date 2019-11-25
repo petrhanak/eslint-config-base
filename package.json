@@ -1,0 +1,35 @@
+{
+  "name": "@code-quality/eslint-config-base",
+  "description": "The base rule for eslint you have been looking for.",
+  "version": "0.0.0",
+  "repository": "https://github.com/developer239/code-quality-eslint-config-base.git",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "eslint-plugin-import": "^2.18.0"
+  },
+  "devDependencies": {
+    "@code-quality/commitlint-config": "^1.0.0",
+    "@commitlint/cli": "^8.2.0",
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/commit-analyzer": "^6.3.3",
+    "@semantic-release/git": "^7.0.18",
+    "@semantic-release/npm": "^5.3.4",
+    "@semantic-release/release-notes-generator": "^7.3.4",
+    "husky": "^3.1.0",
+    "semantic-release": "^15.13.31"
+  },
+  "peerDependencies": {
+    "eslint": ">=6,"
+  },
+  "keywords": [
+    "config",
+    "semantic-release",
+    "eslint"
+  ]
+}
