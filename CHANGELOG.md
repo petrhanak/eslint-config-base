@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/code-quality-resources/code-quality-eslint-config-base/compare/v1.0.0...v1.0.1) (2019-11-28)
+
+
+### Bug Fixes
+
+* reference code-quality-resources ([36d4826](https://github.com/code-quality-resources/code-quality-eslint-config-base/commit/36d48269a6ccefedf3446b502110dace06616464))
+
 # 1.0.0 (2019-11-25)
 
 
