@@ -5,3 +5,14 @@
 # Base Eslint Config
 
 These rules are shared between different eslint configs.
+
+**Checks for:**
+
+- possible errors
+- best practices
+- variables
+- stylistic issues
+- ECMAScript 6 rules
+- rules from eslint plugin import
+
+This ruleset is very opinionated. There are very few warnings.
