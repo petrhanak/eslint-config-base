@@ -26,9 +26,9 @@
     regenerator-runtime "^0.13.2"
 
 "@code-quality/commitlint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@code-quality/commitlint-config/-/commitlint-config-1.0.0.tgz#46a6b918c46cc5de45d4ffbcc75e3db32656e2ca"
-  integrity sha512-peCbuZkZM511X8gQIJM1LCDEwWZSbIXZ2Ycdiy+egqAHp3KCNs+bYftFpWbNUaWdBN4pEDXhziiv2s2mYE9SPw==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@code-quality/commitlint-config/-/commitlint-config-1.0.1.tgz#6b183411be728141df561ef9ce8c18c7d0f2e0f8"
+  integrity sha512-SEQdYMStgAXXhBzHKGGFxdtynL3C1hX+ikLg2zjXvJBZ82NEhiy5p+UpL08iPtzTcdU02Txmj9wTaSF2rT3P0w==
   dependencies:
     "@commitlint/config-conventional" "^8.1.0"
 
