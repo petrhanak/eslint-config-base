@@ -8,7 +8,12 @@
     "access": "public"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=12",
+    "npm": ">=6"
+  },
+  "peerDependencies": {
+    "eslint": ">=6",
+    "eslint-plugin-import": ">=2.18.0"
   },
   "devDependencies": {
     "@code-quality/commitlint-config": "1.0.0",
@@ -21,13 +26,11 @@
     "husky": "3.1.0",
     "semantic-release": "15.13.31"
   },
-  "peerDependencies": {
-    "eslint": ">=6",
-    "eslint-plugin-import": ">=2.18.0"
-  },
   "keywords": [
-    "config",
+    "eslint",
+    "code-style",
+    "eslint-plugin-import",
     "semantic-release",
-    "eslint"
+    "commitling"
   ]
 }
