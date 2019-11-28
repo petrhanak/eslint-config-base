@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/code-quality-resources/eslint-config-base/compare/v1.0.1...v1.0.2) (2019-11-28)
+
+
+### Bug Fixes
+
+* migrate package to code-quality-resources organization ([f27c8d9](https://github.com/code-quality-resources/eslint-config-base/commit/f27c8d941d613d1109271d8bb19be5f6aa3f930f))
+
 ## [1.0.1](https://github.com/code-quality-resources/code-quality-eslint-config-base/compare/v1.0.0...v1.0.1) (2019-11-28)
 
 
