@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.0.2...v1.1.0) (2019-11-28)
+
+
+### Features
+
+* set first eslint rules ([e1cfad3](https://github.com/code-quality-resources/eslint-config-base/commit/e1cfad319e8e7277c2b28f982a1ae8c1b8a9043b))
+
 ## [1.0.2](https://github.com/code-quality-resources/eslint-config-base/compare/v1.0.1...v1.0.2) (2019-11-28)
 
 
