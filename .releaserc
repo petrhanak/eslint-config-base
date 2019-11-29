@@ -1,11 +1,4 @@
 {
-  "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
-    "@semantic-release/changelog",
-    "@semantic-release/npm",
-    ["@semantic-release/git", {
-      "assets": ["CHANGELOG.md", "package.json"]
-    }]
-  ]
+  "extends": "@code-quality/semantic-release-config",
+  "branch": "master"
 }

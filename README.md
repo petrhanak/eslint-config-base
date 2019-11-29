@@ -15,7 +15,7 @@ This [configuration](https://github.com/benmosher/eslint-plugin-import) uses the
 ## Install
 
 ```bash
-$ yarn add eslint @code-quality/eslint-config-base -D
+$ yarn add eslint eslint-plugin-import @code-quality/eslint-config-base -D
 ```
 
 ## Usage
