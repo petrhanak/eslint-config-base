@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.2.0...v1.3.0) (2019-11-29)
+
+
+### Features
+
+* set import resolve path to src ([1251180](https://github.com/code-quality-resources/eslint-config-base/commit/125118039595f148aa55e3621619fb36e7358f5d))
+
 # [1.2.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.1.1...v1.2.0) (2019-11-29)
 
 
