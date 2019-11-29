@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/code-quality-resources/eslint-config-base/compare/v1.1.0...v1.1.1) (2019-11-29)
+
+
+### Bug Fixes
+
+* regenerate yarn.lock ([a95b246](https://github.com/code-quality-resources/eslint-config-base/commit/a95b2463195594004d2ccd350b23dc97375171af))
+* rule consistent-return ([1ec2df3](https://github.com/code-quality-resources/eslint-config-base/commit/1ec2df3a0bdec1ba37645e0503535f7db1655689))
+
 # [1.1.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.0.2...v1.1.0) (2019-11-28)
 
 
