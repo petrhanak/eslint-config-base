@@ -4,15 +4,30 @@
 
 # Base Eslint Config
 
-These rules are shared between different eslint configs.
+[**eslint**](https://github.com/eslint/eslint) shareable config to help you identify and report on patterns found in your code.
 
-**Checks for:**
+## Plugins
 
-- possible errors
-- best practices
-- variables
-- stylistic issues
-- ECMAScript 6 rules
-- rules from eslint plugin import
+This [configuration](https://github.com/benmosher/eslint-plugin-import) uses the following plugins:
 
-This ruleset is very opinionated. There are very few warnings.
+- [`eslint-plugin-import`](https://github.com/benmosher/eslint-plugin-import)
+
+## Install
+
+```bash
+$ yarn add eslint @code-quality/eslint-config-base -D
+```
+
+## Usage
+
+The shareable config can be configured in the [**eslint** configuration file](https://eslint.org/docs/user-guide/configuring):
+
+Create a _.eslintrc.js_ file with the following contents:
+
+```js
+module.exports = {
+  extends: [
+    '@code-quality/eslint-config-base'
+  ],
+}
+```
