@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.3.0...v1.4.0) (2019-11-30)
+
+
+### Features
+
+* update rules for real-world use ([c44d5c7](https://github.com/code-quality-resources/eslint-config-base/commit/c44d5c7a79bd0762a86cce45f312ceab7ad1b3cd))
+
 # [1.3.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.2.0...v1.3.0) (2019-11-29)
 
 
