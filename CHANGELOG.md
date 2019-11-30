@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.4.0...v1.5.0) (2019-11-30)
+
+
+### Features
+
+* fix consistent-return rule ([ded8c8c](https://github.com/code-quality-resources/eslint-config-base/commit/ded8c8c5095721f2c18ca37d23a73076d870efa0))
+
 # [1.4.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.3.0...v1.4.0) (2019-11-30)
 
 
