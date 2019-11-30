@@ -74,7 +74,7 @@ module.exports = {
     'block-scoped-var': 'error',
     'class-methods-use-this': 'error',
     'complexity': ['error', 7],
-    'consistent-return': 3,
+    'consistent-return': 1,
     'curly': 'error',
     'default-case': 'error',
     'default-param-last': 'error',
