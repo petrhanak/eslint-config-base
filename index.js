@@ -9,13 +9,9 @@ module.exports = {
   settings: {
     'import/resolver': {
       node: {
-        paths: [
-          'src',
-        ],
-        extensions: [
-          '.js',
-          '.json',
-        ],
+        tryExtensions: ['.js', '.json'],
+        paths: ['src'],
+        extensions: ['.js', '.json'],
       },
     },
   },
@@ -174,6 +170,7 @@ module.exports = {
 
     //
     // Stylistic Issues
+    //
 
     'array-bracket-newline': ['error', { 'multiline': true }],
     'array-bracket-spacing': ['error', 'never'],
@@ -185,11 +182,11 @@ module.exports = {
     'camelcase': 'warn',
     'capitalized-comments': 'error',
     'comma-dangle': ['error', {
-      "arrays": "always-multiline",
-      "objects": "always-multiline",
-      "imports": "always-multiline",
-      "exports": "always-multiline",
-      "functions": "never"
+      'arrays': 'always-multiline',
+      'objects': 'always-multiline',
+      'imports': 'always-multiline',
+      'exports': 'always-multiline',
+      'functions': 'never'
     }],
     'comma-spacing': ['error', {
       before: false,
@@ -303,6 +300,7 @@ module.exports = {
 
     //
     // ECMAScript 6
+    //
 
     'arrow-body-style': 'error',
     'arrow-parens': ['error', 'as-needed'],
