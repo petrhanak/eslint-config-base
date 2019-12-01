@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.5.0...v1.6.0) (2019-12-01)
+
+
+### Features
+
+* do minor updates ([f366179](https://github.com/code-quality-resources/eslint-config-base/commit/f3661797c70fc0c633a4501eb6a23512cab0c10c))
+
 # [1.5.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.4.0...v1.5.0) (2019-11-30)
 
 
