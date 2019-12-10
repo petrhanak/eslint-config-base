@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/code-quality-resources/eslint-config-base/compare/v1.8.0...v1.8.1) (2019-12-10)
+
+
+### Bug Fixes
+
+* turn off import/named ([0d2d7bf](https://github.com/code-quality-resources/eslint-config-base/commit/0d2d7bf6222374627f69fe24f5d0c1c436535729))
+
 # [1.8.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.7.1...v1.8.0) (2019-12-10)
 
 
