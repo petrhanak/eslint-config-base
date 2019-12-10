@@ -271,7 +271,7 @@ module.exports = {
     'one-var': ['error', 'never'],
     'one-var-declaration-per-line': 'error',
     'operator-assignment': ['error', 'always'],
-    'operator-linebreak': ['error', 'before'],
+    'operator-linebreak': 0,
     'padded-blocks': ['error', 'never'],
     'prefer-object-spread': 'error',
     'quote-props': ['error', 'consistent'],
