@@ -337,7 +337,7 @@ module.exports = {
     'import/no-unresolved': ['error', {
       commonjs: true,
     }],
-    'import/named': 'error',
+    'import/named': 0,
     'import/default': 'error',
     'import/first': 'error',
     'import/namespace': 'error',
