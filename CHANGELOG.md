@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.7.1...v1.8.0) (2019-12-10)
+
+
+### Features
+
+* update package.json ([c671ad5](https://github.com/code-quality-resources/eslint-config-base/commit/c671ad58f74eede9261243250e2aaca35ed7aa64))
+
 ## [1.7.1](https://github.com/code-quality-resources/eslint-config-base/compare/v1.7.0...v1.7.1) (2019-12-10)
 
 
