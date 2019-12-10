@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.6.0...v1.7.0) (2019-12-10)
+
+
+### Features
+
+* turn off no-extra-parens ([712cb74](https://github.com/code-quality-resources/eslint-config-base/commit/712cb74f0b8cb17c8ef3584f9c9490f18ae59fdd))
+
 # [1.6.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.5.0...v1.6.0) (2019-12-01)
 
 
