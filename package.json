@@ -27,7 +27,6 @@
     "eslint-plugin-import",
     "semantic-release",
     "config",
-    "general",
-    "basic"
+    "general"
   ]
 }
