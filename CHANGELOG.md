@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/code-quality-resources/eslint-config-base/compare/v1.7.0...v1.7.1) (2019-12-10)
+
+
+### Bug Fixes
+
+* turn off operator-linebreak rule ([8428c89](https://github.com/code-quality-resources/eslint-config-base/commit/8428c896ec201c5bd722b968711d306f11833531))
+
 # [1.7.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.6.0...v1.7.0) (2019-12-10)
 
 
