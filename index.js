@@ -332,7 +332,8 @@ module.exports = {
     'template-curly-spacing': 'error',
 
     //
-    // Eslint Pugin Import
+    // Eslint Plugin Import
+    //
 
     'import/no-unresolved': ['error', {
       commonjs: true,
