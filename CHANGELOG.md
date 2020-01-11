@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.8.1...v1.9.0) (2020-01-11)
+
+
+### Features
+
+* improve eslint rules ([59ce863](https://github.com/code-quality-resources/eslint-config-base/commit/59ce8631054b5f3b91b4c2a447d65ac53b3cd7ee))
+
 ## [1.8.1](https://github.com/code-quality-resources/eslint-config-base/compare/v1.8.0...v1.8.1) (2019-12-10)
 
 
