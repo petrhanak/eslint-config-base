@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.10.0...v1.11.0) (2020-02-10)
+
+
+### Features
+
+* configure import setting paths ([c85343c](https://github.com/code-quality-resources/eslint-config-base/commit/c85343c7f1cf35345c85a72533c36f62a1d4ecc0))
+
 # [1.10.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.9.0...v1.10.0) (2020-02-10)
 
 
