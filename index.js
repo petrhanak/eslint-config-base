@@ -68,7 +68,7 @@ module.exports = {
     'accessor-pairs': 'error',
     'array-callback-return': 'error',
     'block-scoped-var': 'error',
-    'class-methods-use-this': 'error',
+    'class-methods-use-this': 0,
     'complexity': ['error', 7],
     'consistent-return': 1,
     'curly': 'error',
@@ -146,7 +146,7 @@ module.exports = {
     // Variables
     //
 
-    'init-declarations': 'error',
+    'init-declarations': 0,
     'no-delete-var': 'error',
     'no-label-var': 'error',
     'no-shadow': 'error',
@@ -172,7 +172,7 @@ module.exports = {
     // Stylistic Issues
     //
 
-    'array-bracket-newline': ['error', { 'multiline': true }],
+    'array-bracket-newline': 0,
     'array-bracket-spacing': ['error', 'never'],
     'array-element-newline': ['error', 'consistent'],
     'block-spacing': ['error', 'always'],
@@ -180,7 +180,7 @@ module.exports = {
       allowSingleLine: true,
     }],
     'camelcase': 'warn',
-    'capitalized-comments': 'error',
+    'capitalized-comments': 0,
     'comma-dangle': ['error', {
       'arrays': 'always-multiline',
       'objects': 'always-multiline',
@@ -235,10 +235,7 @@ module.exports = {
     'max-params': ['error', 5],
     'max-statements-per-line': 'error',
     'multiline-comment-style': ['error', 'separate-lines'],
-    'new-cap': ['error', {
-      newIsCap: true,
-      capIsNew: true,
-    }],
+    'new-cap': 0,
     'new-parens': 'error',
     'newline-per-chained-call': ['error', {
       ignoreChainWithDepth: 3,
@@ -283,11 +280,7 @@ module.exports = {
     }],
     'semi-style': ['error', 'first'],
     'space-before-blocks': ['error', 'always'],
-    'space-before-function-paren': ['error', {
-      anonymous: 'never',
-      named: 'never',
-      asyncArrow: 'always',
-    }],
+    'space-before-function-paren': 0,
     'space-in-parens': ['error', 'never'],
     'space-infix-ops': 'error',
     'space-unary-ops': ['error', {
