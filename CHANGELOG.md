@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.9.0...v1.10.0) (2020-02-10)
+
+
+### Features
+
+* add import plugins ([bc5960f](https://github.com/code-quality-resources/eslint-config-base/commit/bc5960f471cf5895dd76ea3cfe35189cd4fe5e22))
+* update ruleset ([7e94b9e](https://github.com/code-quality-resources/eslint-config-base/commit/7e94b9e62a80e3260b2408bf890d7cbac357a21b))
+
 # [1.9.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.8.1...v1.9.0) (2020-01-11)
 
 
