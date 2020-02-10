@@ -5,6 +5,7 @@
 module.exports = {
   plugins: [
     'import',
+    'absolute-import',
   ],
   settings: {
     'import/resolver': {
@@ -325,6 +326,12 @@ module.exports = {
     'template-curly-spacing': 'error',
 
     //
+    // Eslint Plugin Absolute Import
+    //
+
+    'absolute-import/no-relative-path': 1,
+
+    //
     // Eslint Plugin Import
     //
 
@@ -352,7 +359,16 @@ module.exports = {
       maxDepth: 8,
     }],
     'import/no-duplicates': 'error',
-    'import/order': ['error', { 'groups': ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
+    'import/order': [
+      'error',
+      {
+        'groups': ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'],
+        'alphabetize': {
+          'order': 'asc',
+          'caseInsensitive': true,
+        },
+      },
+    ],
     'import/no-default-export': 'error',
   },
 }

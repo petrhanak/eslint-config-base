@@ -12,8 +12,7 @@
     "npm": ">=6"
   },
   "peerDependencies": {
-    "eslint": ">=6",
-    "eslint-plugin-import": ">=2.18.0"
+    "eslint": ">=6"
   },
   "devDependencies": {
     "@code-quality/commitlint-config": "1.1.0",
@@ -28,5 +27,9 @@
     "semantic-release",
     "config",
     "general"
-  ]
+  ],
+  "dependencies": {
+    "eslint-plugin-absolute-import": "^1.4.4",
+    "eslint-plugin-import": "^2.20.1"
+  }
 }
