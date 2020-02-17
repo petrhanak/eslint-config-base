@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.11.0...v1.12.0) (2020-02-17)
+
+
+### Features
+
+* update rules ([7620c40](https://github.com/code-quality-resources/eslint-config-base/commit/7620c40dd5f95aecbb6a32e1a6e29be049c4935c))
+
 # [1.11.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.10.0...v1.11.0) (2020-02-10)
 
 
