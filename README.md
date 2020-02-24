@@ -10,6 +10,7 @@ This [configuration](https://github.com/code-quality-resources/eslint-config-bas
 
 - [`eslint-plugin-import`](https://github.com/benmosher/eslint-plugin-import)
 - [`eslint-plugin-absolute-import`](https://github.com/mcclowes/eslint-plugin-absolute-import)
+- [`eslint-plugin-unused-imports`](https://github.com/sweepline/eslint-plugin-unused-imports)
 
 ## Install
 
