@@ -80,7 +80,7 @@ module.exports = {
     'eqeqeq': 'error',
     'grouped-accessor-pairs': 'error',
     'guard-for-in': 'error',
-    'max-classes-per-file': ['error', 1],
+    'max-classes-per-file': 0,
     'no-alert': 'error',
     'no-caller': 'error',
     'no-case-declarations': 'error',
