@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.13.0...v1.14.0) (2020-02-24)
+
+
+### Features
+
+* do not limit max classes per file ([b3058a5](https://github.com/code-quality-resources/eslint-config-base/commit/b3058a5134c55aea812166a82d0d419ad86c3e51))
+
 # [1.13.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.12.0...v1.13.0) (2020-02-24)
 
 
