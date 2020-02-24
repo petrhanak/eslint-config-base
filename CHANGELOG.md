@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.12.0...v1.13.0) (2020-02-24)
+
+
+### Features
+
+* setup no unused imports plugin ([a60eecc](https://github.com/code-quality-resources/eslint-config-base/commit/a60eeccb9c465f4b49cb6ac8a88bf3481378b9e2))
+
 # [1.12.0](https://github.com/code-quality-resources/eslint-config-base/compare/v1.11.0...v1.12.0) (2020-02-17)
 
 
