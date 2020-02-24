@@ -6,6 +6,7 @@ module.exports = {
   plugins: [
     'import',
     'absolute-import',
+    'unused-imports',
   ],
   settings: {
     'import/resolver': {
@@ -156,7 +157,7 @@ module.exports = {
       typeof: true,
     }],
     'no-undefined': 0,
-    'no-unused-vars': 'error',
+    'no-unused-vars': 0,
     'no-use-before-define': ['error', {
       functions: false,
       classes: false,
@@ -370,5 +371,12 @@ module.exports = {
       },
     ],
     'import/no-default-export': 'error',
+
+    //
+    // Eslint Plugin Unused Import
+    //
+
+    'unused-imports/no-unused-imports': 2,
+    'unused-imports/no-unused-vars': 2,
   },
 }
